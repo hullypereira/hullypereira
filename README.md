@@ -6,7 +6,6 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hullypereira&show_icons=true&theme=codeSTACKr)]
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hullypereira&repo=falsetiktok&theme=dark)]
 
 
 
