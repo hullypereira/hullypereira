@@ -9,6 +9,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hullypereira&repo=tiktokjornadadev&theme=dark)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hullypereira&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hullypereira&layout=compact)
 
 
